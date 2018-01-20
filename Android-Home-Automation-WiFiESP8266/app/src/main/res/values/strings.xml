@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Home Automation With WiFi</string>
+    <string name="device1">Device(1):</string>
+    <string name="device2">Device(2):</string>
+    <string name="device3">Device(3):</string>
+    <string name="device4">Device(4):</string>
+    <string name="on_all">On All</string>
+    <string name="off_all">Off All</string>
+
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="login">Login</string>
+    <string name="login_status">Sign In</string>
+    <string name="usernamelbl">Username</string>
+    <string name="passwordlbl">Password</string>
+    <string name="ip_address">192.168.4.1</string>
+</resources>
